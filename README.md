@@ -8,3 +8,9 @@ Basic building blocks of redux state management
 3. Actions / action creators
 4. Components / Views
 5. Containers
+
+# To use
+cd counter
+npm install
+npm start
+
