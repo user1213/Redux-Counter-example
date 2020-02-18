@@ -10,7 +10,7 @@ Basic building blocks of redux state management
 5. Containers
 
 # To use
-cd counter
-npm install
+cd counter<br />
+npm install<br />
 npm start
 
